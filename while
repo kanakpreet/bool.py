@@ -1,0 +1,7 @@
+temp = int(input("enter the temperature"))
+print(temp <= 50 and temp >= 30)
+print(temp < 40 and temp >= 30)
+print (not temp == 40)
+
+
+
